@@ -1,0 +1,30 @@
+{
+  "data": {
+    "movies": [
+      {
+        "title": "Ad Astra",
+        "coverAsset": "https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg"
+      },
+      {
+        "title": "Sonic the Hedgehog",
+        "coverAsset": "https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg"
+      },
+      {
+        "title": "Bad Boys for Life",
+        "coverAsset": "https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg"
+      },
+      {
+        "title": "Trolls World Tour",
+        "coverAsset": "https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg"
+      },
+      {
+        "title": "Underwater",
+        "coverAsset": "https://image.tmdb.org/t/p/w500/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg"
+      },
+      {
+        "title": "Star Wars: The Rise of Skywalker",
+        "coverAsset": "https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg"
+      }
+    ]
+  }
+}
